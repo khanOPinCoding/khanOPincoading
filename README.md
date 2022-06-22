@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @khanOPincoading
+- 👋 Hi, I’m @khanOPincoding
 - 👀 I’m interested in ...webdev and programming 
 - 🌱 I’m currently learning ...python, C, html, css, js.
 - 💞️ I’m looking to collaborate on ...
